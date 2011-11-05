@@ -4,8 +4,6 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class DataTest {
-
-	private int x;
 	
 	@Test
 	public void testGetMes() {
