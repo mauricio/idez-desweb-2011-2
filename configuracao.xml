@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuracao>
+    <chave nome="host">localhost</chave>
+    <chave nome="porta">8080</chave>
+    <chave nome="usuario">meu_usuario</chave>
+    <chave nome="senha">123456</chave>
+</configuracao>
