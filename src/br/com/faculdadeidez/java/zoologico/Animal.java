@@ -6,6 +6,10 @@ public class Animal extends Object {
 	private int altura;
 	private String cor;
 
+	public Animal() {
+		super();
+	}
+	
 	@Override
 	protected void finalize() throws Throwable {
 		super.finalize();
