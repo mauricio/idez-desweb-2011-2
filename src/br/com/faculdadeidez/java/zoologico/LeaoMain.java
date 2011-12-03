@@ -4,7 +4,7 @@ public class LeaoMain {
 
 	public static void main( String ... args ) {
 		
-		Leao leao = new Leao();
+		Leao leao = new Leao( 10 );
 		leao.setChefe( true );
 		
 		System.out.println( leao.isChefe() );

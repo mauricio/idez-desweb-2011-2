@@ -8,6 +8,7 @@ public class Animal extends Object {
 
 	public Animal() {
 		super();
+		System.out.println( "Construtor de animal" );
 	}
 	
 	@Override

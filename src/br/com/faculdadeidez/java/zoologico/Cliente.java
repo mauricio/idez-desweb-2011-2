@@ -8,9 +8,7 @@ public abstract class Cliente {
 
 	private String email;
 
-	private Date clienteDesde;
-
-	
+	private Date clienteDesde;	
 	
 	@Override
 	public int hashCode() {
